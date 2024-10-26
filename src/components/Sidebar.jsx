@@ -3,7 +3,7 @@ import React from 'react'
 const Sidebar = () => {
   return (
     <div>
-      Sidebar
+      <p className='w-full bg-[] text-white font-bold text-center p-10 text-2xl'>Darshboard</p>
     </div>
   )
 }
